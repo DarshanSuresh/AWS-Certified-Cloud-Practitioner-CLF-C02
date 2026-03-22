@@ -3,7 +3,7 @@
 👍🏻 AWS-CLF-C02
 
 > **AWS Certified Cloud Practitioner (CLF-C02) | Certification**  
-> https://aws.amazon.com/certification/certified-cloud-practitioner
+>  https://aws.amazon.com/certification/certified-cloud-practitioner
 
 This repository contains comprehensive notes, resources, and practical assignments for preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam. The content is aligned with the latest exam blueprint and is suitable for beginners as well as professionals looking for a structured revision of AWS fundamentals.
 
